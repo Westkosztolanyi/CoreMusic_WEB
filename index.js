@@ -40,7 +40,7 @@ bot.on("ready", async() => {
     console.log(`${bot.user.username} elindult!`)
 
     let státuszok = [
-        `CoreCasino | Prefix: TITKOS`,
+        `CoreCasino | Prefix: ?!`,
         `CoreCasino | Készítő: R. Gergő`,
     ]
 
