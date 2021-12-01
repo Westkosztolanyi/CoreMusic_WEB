@@ -1,7 +1,6 @@
 module.exports = {
     "alap": {
      "prefix":"!",
-     "token":"OTEyODI2MzQ1MjkyMTgxNTE0.YZ1lyA.qCwOvp-W1jOE5RhexRs580OMEeA",
      "botname":"CoreCasino | Made By - R. Gergő",
     },
    "colors": {

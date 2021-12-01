@@ -351,4 +351,4 @@ setTimeout(() => {
 
 //////////////////[TOKEN]//////////////////
 
-bot.login(alap.token);
+bot.login(process.env.BOT_TOKEN);
